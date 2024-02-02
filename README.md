@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/yuvaraj-nagi-91702b173">
   <img align="left" alt="Yuvaraj Nagi" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
-  <img align="left" alt="Saket Prag" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" />
-</a>
 <br />
 <br />
 

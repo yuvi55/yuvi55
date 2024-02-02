@@ -46,5 +46,5 @@ Hi, I'm Yuvaraj Nagi🙌, an aspiring Software Developer. Apart from that I love
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Yuvaraj's github stats](https://github-readme-stats.vercel.app/api?username=yuvi55&show_icons=true&hide_border=true)
 view rawBlog hosted with ❤ by GitHub
